@@ -1,5 +1,5 @@
 # Writeups-for-CTF-challenges
---Links for Writeups I've created in Medium:--
+Links for Writeups I've created in Medium:
 
 Web Exploitation writeups
 1. https://medium.com/p/47953fffa93f?postPublishedType=initial
