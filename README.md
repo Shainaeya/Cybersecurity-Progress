@@ -1,4 +1,4 @@
-# Writeups-for-CTF-challenges
+# CYBERSECURITY PROGRESS
 Links for Writeups I've created in Medium:
 
 Web Exploitation writeups
