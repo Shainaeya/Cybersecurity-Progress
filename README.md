@@ -10,10 +10,11 @@ Web Exploitation writeups
 OSINT writeups
 1.
 2.
+3.
 
 Cryptography & Forensics writeups
-1.
-2.
+1. https://medium.com/@shaina.bastatas.24/easy-cryptography-forensics-challenge-1-writeup-2dcb08d703c5
+
 -Binary Exploitation & Reverse Engineering writeups
 1.
 2.
