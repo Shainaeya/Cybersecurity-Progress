@@ -11,13 +11,14 @@ OSINT writeups
 1.
 2.
 3.
+4.
 
 Cryptography & Forensics writeups
-1. https://medium.com/@shaina.bastatas.24/easy-cryptography-forensics-challenge-1-writeup-2dcb08d703c5
+1. 
 
 -Binary Exploitation & Reverse Engineering writeups
 1.
-2.
+
 
 
 
